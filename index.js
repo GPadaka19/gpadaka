@@ -1,0 +1,1 @@
+console.log("This is the official gpadaka NPM package. Maintained by Gusti Padaka.");
