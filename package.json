@@ -7,7 +7,7 @@
   {
   "postinstall": "node index.js"
   },
-  "author": "Gusti Padaka <youremail@example.com>",
+  "author": "Gusti Padaka gustipadaka19@gmail.com",
   "license": "MIT",
   "keywords": ["gpadaka", "gusti", "trademark", "identity", "official"],
   "repository": {
