@@ -1,15 +1,20 @@
 {
   "name": "gpadaka",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Official NPM package claimed by Gusti Padaka.",
   "main": "index.js",
-  "scripts": 
-  {
-  "postinstall": "node index.js"
+  "scripts": {
+    "postinstall": "node index.js"
   },
   "author": "Gusti Padaka gustipadaka19@gmail.com",
   "license": "MIT",
-  "keywords": ["gpadaka", "gusti", "trademark", "identity", "official"],
+  "keywords": [
+    "gpadaka",
+    "gusti",
+    "trademark",
+    "identity",
+    "official"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/GPadaka19/gpadaka"
